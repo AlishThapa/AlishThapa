@@ -4,14 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishthapa&label=Profile%20views&color=0e75b6&style=flat" alt="alishthapa" /> </p>
 
 
-
 - 🌱 I’m currently learning **Flutter, dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlishThapa](https://github.com/AlishThapa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alish thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alish thapa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alish-thapa-a332a3240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alish-thapa-a332a3240/" height="30" width="40" /></a>
 <a href="https://fb.com/alish thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alish thapa" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_alish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_alish" height="30" width="40" /></a>
 <a href="https://medium.com/@alish thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alish thapa" height="30" width="40" /></a>
@@ -28,3 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishthapa&" alt="alishthapa" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishthapa" alt="alishthapa" /></a> </p>
+
